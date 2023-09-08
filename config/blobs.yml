@@ -118,10 +118,10 @@ memcached_exporter/memcached_exporter-0.11.3.linux-amd64.tar.gz:
   size: 7746561
   object_id: ba6f2dbe-24a9-4260-769a-33bfff8d558b
   sha: sha256:39bc1f325ac973e927057138742182fa2536a7ee549a608c0c43b5fbb9ed5711
-mongodb_exporter/mongodb_exporter-1.0.0.linux-amd64.tar.gz:
-  size: 2873863
-  object_id: 7d6b44a6-b6a3-4900-9671-979d984c2665
-  sha: 073286f537e06dea8980a36818206b237e031d20
+mongodb_exporter/mongodb_exporter-0.39.0.linux-amd64.tar.gz:
+  size: 5748591
+  object_id: 082f1867-57b8-4bc6-7e49-c8bdaaf15e80
+  sha: sha256:429d41cbe5fa645e9dfe97c148f57161b1bebf17fd9b305528e77f53efd648d4
 mysqld_exporter/mysqld_exporter-0.14.0.linux-amd64.tar.gz:
   size: 7450991
   object_id: 1daa0fd1-e981-49e5-5cc6-37ccd04602d6

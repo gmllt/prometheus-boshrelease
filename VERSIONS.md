@@ -30,7 +30,7 @@
 | [influxdb_exporter]       |                  | v0.11.3 | ![][influxdb_exporter-ver]       | ![][influxdb_exporter-act]       |
 | [ingestor_exporter]       |                  | v2.2.0  | ![][ingestor_exporter-ver]       | ![][ingestor_exporter-act]       |
 | [memcached_exporter]      |                  | v0.11.3 | ![][memcached_exporter-ver]      | ![][memcached_exporter-act]      |
-| [mongodb_exporter]        |                  | v1.0.0  | ![][mongodb_exporter-ver]        | ![][mongodb_exporter-act]        |
+| [mongodb_exporter]        |                  | v0.39.0 | ![][mongodb_exporter-ver]        | ![][mongodb_exporter-act]        |
 | [mysqld_exporter]         |                  | v0.14.0 | ![][mysqld_exporter-ver]         | ![][mysqld_exporter-act]         |
 | [nats_exporter]           |                  | v1.0.0  | ![][nats_exporter-ver]           | ![][nats_exporter-act]           |
 | [postgres_exporter]       |                  | v0.12.0 | ![][postgres_exporter-ver]       | ![][postgres_exporter-act]       |
