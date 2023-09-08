@@ -34,10 +34,10 @@ credhub_exporter/credhub_exporter_0.28.0_linux_amd64.tar.gz:
   size: 4169073
   object_id: 03f9a24c-0bac-4d36-7304-07d00790140c
   sha: sha256:10e24a9bfc1e6eca4d3b4232240959532afa1b040741dae6e4fd8c779da64caa
-elasticsearch_exporter/elasticsearch_exporter-1.5.0.linux-amd64.tar.gz:
-  size: 4394851
-  object_id: b502c37b-fed4-4c80-7d34-77ff079e8c66
-  sha: sha256:66dfe9981e860c9f068f04fb82659da1ddcf9a4581d579f79d9febf431b05ac7
+elasticsearch_exporter/elasticsearch_exporter-1.6.0.linux-amd64.tar.gz:
+  size: 4935152
+  object_id: c0911d45-36e7-4cb7-76ec-546d43939e68
+  sha: sha256:ce16d7ba4e1e87895ea5881dc6a242d9fbd9ccfd68c217248c88d8dcd519cc35
 firehose_exporter/firehose_exporter-6.2.0.linux-amd64.tar.gz:
   size: 9102454
   object_id: 065e08b0-0023-46ba-4955-ee5daf5e40f0
