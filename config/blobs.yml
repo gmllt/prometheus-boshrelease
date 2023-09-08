@@ -2,10 +2,10 @@ alertmanager/alertmanager-0.26.0.linux-amd64.tar.gz:
   size: 29717412
   object_id: 7a527c33-11ef-4961-60cb-192edab77a81
   sha: sha256:abd73e2ee6bf67d3888699660abbecba7b076bf1f9459a3a8999d493b149ffa6
-blackbox_exporter/blackbox_exporter-0.23.0.linux-amd64.tar.gz:
-  size: 10831812
-  object_id: 8e7cd3ed-33bb-482c-411e-91f4b36745e1
-  sha: sha256:63bd4fde6984db79c95e1502a0ab47da6194d763bff22a04d1f50c4fd8322b84
+blackbox_exporter/blackbox_exporter-0.24.0.linux-amd64.tar.gz:
+  size: 10956196
+  object_id: 574eea0d-56c0-44b4-6929-02fc4116b419
+  sha: sha256:81b36cece040491ac0d9995db2a0964c40e24838a03a151c3333a7dc3eef94ff
 bosh_exporter/bosh_exporter-3.4.0.linux-amd64.tar.gz:
   size: 7727120
   object_id: df3639b9-15d4-4856-6ae1-35dfefac87c9
