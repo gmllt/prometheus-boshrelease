@@ -24,7 +24,7 @@
 | [cadvisor]                |                  | v0.47.0 | ![][cadvisor-ver]                | ![][cadvisor-act]                |
 | [collectd_exporter]       |                  | v0.5.0  | ![][collectd_exporter-ver]       | ![][collectd_exporter-act]       |
 | [consul_exporter]         |                  | v0.9.0  | ![][consul_exporter-ver]         | ![][consul_exporter-act]         |
-| [elasticsearch_exporter]  |                  | v1.5.0  | ![][elasticsearch_exporter-ver]  | ![][elasticsearch_exporter-act]  |
+| [elasticsearch_exporter]  |                  | v1.6.0  | ![][elasticsearch_exporter-ver]  | ![][elasticsearch_exporter-act]  |
 | [graphite_exporter]       |                  | v0.13.3 | ![][graphite_exporter-ver]       | ![][graphite_exporter-act]       |
 | [haproxy_exporter]        |                  | v0.15.0 | ![][haproxy_exporter-ver]        | ![][haproxy_exporter-act]        |
 | [influxdb_exporter]       |                  | v0.11.3 | ![][influxdb_exporter-ver]       | ![][influxdb_exporter-act]       |
