@@ -1,6 +1,6 @@
 alertmanager/alertmanager-0.26.0.linux-amd64.tar.gz:
   size: 29717412
-  object_id: 7a527c33-11ef-4961-60cb-192edab77a81
+  object_id: 3d48757b-976a-476a-5677-4573c843a150
   sha: sha256:abd73e2ee6bf67d3888699660abbecba7b076bf1f9459a3a8999d493b149ffa6
 blackbox_exporter/blackbox_exporter-0.24.0.linux-amd64.tar.gz:
   size: 10956196
