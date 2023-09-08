@@ -19,7 +19,7 @@
 | [bosh_tsdb_exporter]      | bosh             | v0.2.0  | ![][bosh_tsdb_exporter-ver]      | ![][bosh_tsdb_exporter-act]      |
 | [credhub_exporter]        | bosh             | v0.28.0 | ![][credhub_exporter-ver]        | ![][credhub_exporter-act]        |
 | [cf_exporter]             | cf               | v1.1.0  | ![][cf_exporter-ver]             | ![][cf_exporter-act]             |
-| [firehose_exporter]       | cf               | v7.0.0  | ![][firehose_exporter-ver]       | ![][firehose_exporter-act]       |
+| [firehose_exporter]       | cf               | v7.1.0  | ![][firehose_exporter-ver]       | ![][firehose_exporter-act]       |
 | [jq]                      | *internal*       | v1.6    | ![][jq-ver]                      | ![][jq-act]                      |
 | [cadvisor]                |                  | v0.47.2 | ![][cadvisor-ver]                | ![][cadvisor-act]                |
 | [collectd_exporter]       |                  | v0.5.0  | ![][collectd_exporter-ver]       | ![][collectd_exporter-act]       |
