@@ -10,7 +10,7 @@
 | [libxml2]                 | grafana          | v2.11.0 | ![][libxml2-ver]                 |                                  |
 | [fontconfig]              | grafana          | v2.14.2 |                                  |                                  |
 | [grafana/clock-panel]     | grafana_plugings | v2.1.3  | ![][grafana/clock-panel-ver]     | ![][grafana/clock-panel-act]     |
-| [grafana/worldmap-panel]  | grafana_plugings | v0.3.2  | ![][grafana/worldmap-panel-ver]  | ![][grafana/worldmap-panel-act]  |
+| [grafana/worldmap-panel]  | grafana_plugings | v1.0.6  | ![][grafana/worldmap-panel-ver]  | ![][grafana/worldmap-panel-act]  |
 | [flant/statusmap-panel]   | grafana_plugings | v0.5.1  | ![][flant/statusmap-panel-ver]   | ![][flant/statusmap-panel-act]   |
 | [jdbranham/diagram-panel] | grafana_plugings | v1.7.3  | ![][jdbranham/diagram-panel-ver] | ![][jdbranham/diagram-panel-act] |
 | [vonage-status-panel]     | grafana_plugings | v1.0.10 | ![][vonage-status-panel-ver]     | ![][vonage-status-panel-act]     |
