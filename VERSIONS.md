@@ -20,7 +20,7 @@
 | [credhub_exporter]        | bosh             | v0.23.0 | ![][credhub_exporter-ver]        | ![][credhub_exporter-act]        |
 | [cf_exporter]             | cf               | v1.1.0  | ![][cf_exporter-ver]             | ![][cf_exporter-act]             |
 | [firehose_exporter]       | cf               | v7.0.0  | ![][firehose_exporter-ver]       | ![][firehose_exporter-act]       |
-| [jq]                      | *internal*       | v1.6    | ![][jq-ver]                      | ![][jq-act]                      |
+| [jq]                      | *internal*       | v1.7    | ![][jq-ver]                      | ![][jq-act]                      |
 | [cadvisor]                |                  | v0.47.0 | ![][cadvisor-ver]                | ![][cadvisor-act]                |
 | [collectd_exporter]       |                  | v0.5.0  | ![][collectd_exporter-ver]       | ![][collectd_exporter-act]       |
 | [consul_exporter]         |                  | v0.9.0  | ![][consul_exporter-ver]         | ![][consul_exporter-act]         |
