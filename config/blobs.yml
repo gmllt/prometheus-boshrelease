@@ -30,10 +30,10 @@ consul_exporter/consul_exporter-0.9.0.linux-amd64.tar.gz:
   size: 8799847
   object_id: ae47c543-ad44-499a-6478-d976c4d1aae5
   sha: sha256:918bbbfaec650a9a1159edc663c7b09d6477cd96c078edef6d9fe608ece3c4ff
-credhub_exporter/credhub_exporter_0.23.0_linux_amd64.tar.gz:
-  size: 4167854
-  object_id: 83c6777b-e1ad-4392-4ce8-a3a921b3ede7
-  sha: sha256:188ff6f20e81015dc60432d188dee2c6bf3368ff1742919a2c8ecc7f37658f2a
+credhub_exporter/credhub_exporter_0.28.0_linux_amd64.tar.gz:
+  size: 4169073
+  object_id: 03f9a24c-0bac-4d36-7304-07d00790140c
+  sha: sha256:10e24a9bfc1e6eca4d3b4232240959532afa1b040741dae6e4fd8c779da64caa
 elasticsearch_exporter/elasticsearch_exporter-1.5.0.linux-amd64.tar.gz:
   size: 4394851
   object_id: b502c37b-fed4-4c80-7d34-77ff079e8c66
