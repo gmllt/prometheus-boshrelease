@@ -4,7 +4,7 @@
 | [prometheus]              | prometheus       | v2.47.0 | ![][prometheus-ver]              | ![][prometheus-act]              |
 | [blackbox_exporter]       | prometheus       | v0.24.0 | ![][blackbox_exporter-ver]       | ![][blackbox_exporter-act]       |
 | [nginx]                   | prometheus       | v1.25.2 | ![][nginx-ver]                   |                                  |
-| [pushgateway]             | prometheus       | v1.5.1  | ![][pushgateway-ver]             | ![][pushgateway-act]             |
+| [pushgateway]             | prometheus       | v1.6.1  | ![][pushgateway-ver]             | ![][pushgateway-act]             |
 | [grafana]                 | grafana          | v9.5.9  | ![][grafana-ver]                 | ![][grafana-act]                 |
 | [util-linux]              | grafana          | v2.38.1 | ![][util-linux-ver]              |                                  |
 | [libxml2]                 | grafana          | v2.11.0 | ![][libxml2-ver]                 |                                  |

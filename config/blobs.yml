@@ -150,10 +150,10 @@ prometheus/prometheus-2.47.0.linux-amd64.tar.gz:
   size: 95721304
   object_id: e3603d39-9c5e-45af-4dab-0cd7d994cca7
   sha: sha256:277ad9f110ded8e326bc885848952941e839fa38dd3237e36415f0fa35a04424
-pushgateway/pushgateway-1.5.1.linux-amd64.tar.gz:
-  size: 10051993
-  object_id: 34807b91-69fb-45fb-4469-bee3240f2cf6
-  sha: sha256:3c1fb80e0e777fb98a9171c888adf9553bfab5a0b58af730ae108ac0970ec2a4
+pushgateway/pushgateway-1.6.1.linux-amd64.tar.gz:
+  size: 10237002
+  object_id: 2c933b0a-3f0e-4f91-6641-8a3a2e7ea705
+  sha: sha256:5b927120aa89db035e6b0a1f1d292b5852e78a989d09834097cd460ff26ca67b
 rabbitmq_exporter/rabbitmq_exporter-0.29.0.linux-amd64.tar.gz:
   size: 3604790
   object_id: 0034971e-2cbd-4fd1-638b-b990b36b08fa
