@@ -156,8 +156,8 @@ pushgateway/pushgateway-1.5.1.linux-amd64.tar.gz:
   sha: sha256:3c1fb80e0e777fb98a9171c888adf9553bfab5a0b58af730ae108ac0970ec2a4
 rabbitmq_exporter/rabbitmq_exporter-0.29.0.linux-amd64.tar.gz:
   size: 3604790
-  object_id: 0034971e-2cbd-4fd1-638b-b990b36b08fa
-  sha: fa1d46a83ecc094d0bddcf3d593008617eba5d18
+  object_id: 58f0188b-f282-4489-5f80-fedd90d20d2c
+  sha: sha256:2b1660cb24bc21570e2a57b198757d8dbbfcbf5df0c85666c81379137c658f1a
 redis_exporter/redis_exporter-v1.50.0.linux-amd64.tar.gz:
   size: 3573462
   object_id: 69d31ed4-5738-4407-7072-08da907d4f11
