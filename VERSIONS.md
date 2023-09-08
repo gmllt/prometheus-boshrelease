@@ -1,7 +1,7 @@
 | component                 | category         | version | latest release version           | latest release date              |
 |---------------------------|------------------|---------|:--------------------------------:|:--------------------------------:|
 | [alertmanager]            | prometheus       | v0.26.0 | ![][alertmanager-ver]            | ![][alertmanager-act]            |
-| [prometheus]              | prometheus       | v2.43.0 | ![][prometheus-ver]              | ![][prometheus-act]              |
+| [prometheus]              | prometheus       | v2.47.0 | ![][prometheus-ver]              | ![][prometheus-act]              |
 | [blackbox_exporter]       | prometheus       | v0.24.0 | ![][blackbox_exporter-ver]       | ![][blackbox_exporter-act]       |
 | [nginx]                   | prometheus       | v1.25.2 | ![][nginx-ver]                   |                                  |
 | [pushgateway]             | prometheus       | v1.5.1  | ![][pushgateway-ver]             | ![][pushgateway-act]             |
