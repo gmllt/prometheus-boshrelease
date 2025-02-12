@@ -8,6 +8,9 @@ templates:
   bpm.yml.erb: config/bpm.yml
   web_tls_cert.pem.erb: config/web_tls_cert.pem
   web_tls_key.pem.erb: config/web_tls_key.pem
+  bbs_ca.pem.erb: config/bbs_ca.pem
+  bbs_cert.pem.erb: config/bbs_cert.pem
+  bbs_key.pem.erb: config/bbs_key.pem
 
 properties:
   cf_exporter.cf.api_url:
@@ -53,6 +56,24 @@ properties:
     description: "TLS certificate (PEM format). If the certificate is signed by a certificate authority, the file should be the concatenation of the server's certificate, any intermediates, and the CA's certificate"
   cf_exporter.web.tls_key:
     description: "TLS private key (PEM format)"
+  cf_exporter.bbs.api_url:
+    description: "BBS API URL"
+    default: ""
+  cf_exporter.bbs.ca:
+    description: "BBS CA certificate"
+    default: ""
+  cf_exporter.bbs.certificate:
+    description: "BBS client certificate"
+    default: ""
+  cf_exporter.bbs.private_key:
+    description: "BBS client key"
+    default: ""
+  cf_exporter.bbs.skip_ssl_verify:
+    description: "Disable SSL Verify for BBS"
+    default: false
+  cf_exporter.bbs.timeout:
+    description: "Timeout in seconds for BBS requests"
+    default: 10
 
   env.http_proxy:
     description: "HTTP proxy to use"

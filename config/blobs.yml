@@ -18,10 +18,9 @@ cadvisor/cadvisor-v0.47.0-linux-amd64:
   size: 44642706
   object_id: 92e9dea2-22f4-4284-510a-a5697dc25328
   sha: sha256:caf4491298e0702f9d0c6a1d1949767f5c6400f77e12cd3524d6d3fcc66abc2a
-cf_exporter/cf_exporter_1.4.0.linux-amd64.tar.gz:
-  size: 7148693
-  object_id: 763fc4b7-6a16-410c-590f-5089996ac0fd
-  sha: sha256:dd8ea67c4318ca96bf2606101994de471fdd350c210c4858c96634c5a357c995
+cf_exporter/cf_exporter_1.4.1-SNAPSHOT-2ea8efd1.linux-amd64.tar.gz:
+  size: 8534282
+  sha: sha256:bc6977e1da60751ed4b15928b7aac39ade8310df89646f3642b56b1eac56a1fb
 collectd_exporter/collectd_exporter-0.7.0.linux-amd64.tar.gz:
   size: 8865082
   object_id: d3c9e176-b121-4910-6db5-1e7017eacd82
