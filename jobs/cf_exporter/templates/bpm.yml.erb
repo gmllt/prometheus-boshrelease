@@ -32,6 +32,17 @@ specMap.each { |specKey, envKey|
   end
 }
 
+# when bbs is defined
+if p("cf_exporter.bbs.api_url")
+    env["CF_EXPORTER_BBS_API_URL"] = p("cf_exporter.bbs.api_url")
+    if p("cf_exporter.bbs.skip_ssl_verify")
+        env["CF_EXPORTER_BBS_SKIP_SSL_VERIFY"] = "true"
+    end
+    if p("cf_exporter.bbs.timeout")
+        env["CF_EXPORTER_BBS_TIMEOUT"] = p("cf_exporter.bbs.timeout")
+    end
+end
+
 # when property value is true
 # -> not "if property exists"
 # -> always defined since it has a default value in spec
@@ -43,6 +54,12 @@ end
 if_p("cf_exporter.web.tls_cert", "cf_exporter.web.tls_key") do
   env["CF_EXPORTER_WEB_TLS_CERTFILE"] = "/var/vcap/jobs/cf_exporter/config/web_tls_cert.pem"
   env["CF_EXPORTER_WEB_TLS_KEYFILE"]  = "/var/vcap/jobs/cf_exporter/config/web_tls_key.pem"
+end
+
+if_p("cf_exporter.bbs.ca", "cf_exporter.bbs.certificate", "cf_exporter.bbs.private_key") do
+    env["CF_EXPORTER_BBS_CA_FILE"] = "/var/vcap/jobs/cf_exporter/config/bbs_ca.pem"
+    env["CF_EXPORTER_BBS_CERT_FILE"] = "/var/vcap/jobs/cf_exporter/config/bbs_cert.pem"
+    env["CF_EXPORTER_BBS_KEY_FILE"] = "/var/vcap/jobs/cf_exporter/config/bbs_key.pem"
 end
 
 # proxy handling
